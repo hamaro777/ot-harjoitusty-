@@ -1,0 +1,102 @@
+commit 7580d56e3a3b30ce3f2f45e6ff85c639c0961374
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 13:09:12 2021 +0200
+
+    files
+
+ tiedostoja/file22 | 0
+ tiedostoja/file3  | 1 +
+ 2 files changed, 1 insertion(+)
+
+commit 2ee9e2443a4094eb6cd52901cbdebc85a7db4c24
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 13:00:06 2021 +0200
+
+    muutoksita
+
+ eka.txt    | 3 +--
+ kolmas.txt | 3 ++-
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+commit f776650fdda6af915ef09600b77a66d2cb5246b3
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 12:56:51 2021 +0200
+
+    tiedosto nimenvaihto
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 441c96f87e203ae29d8507d4dbaac1aab057e89d
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 12:55:49 2021 +0200
+
+    toinen tionen poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit e308cf2535476ef14293db5ac24c0c9c6f033af1
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 12:53:18 2021 +0200
+
+    trad dad muokkaus
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 461ae14c07360270227578f28199788d9edd10b3
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 12:49:41 2021 +0200
+
+    trad dad lisäys
+
+ tiedosto.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 0ec51fa7e68ccf0d512d621f04cb8708a90deaed
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 12:39:08 2021 +0200
+
+    stuff lisäys
+
+ stuff/sisa.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3fc2c547db18b65c1057a99d54e22b1ba0e309ba
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 12:38:10 2021 +0200
+
+    toinen ja kolmas muutokset
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 849e82564d017651426b8f4718c874fc28192197
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 12:37:18 2021 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f901ca4cdbd5ac90ece067c7afaf36ae05843b6b
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 12:31:44 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit b3fe0732dac3e91b65d0afb7c206dbd528d50b19
+Author: roosa.a.hamalainen@helsinki.fi <roosa.a.hamalainen@helsinki.fi>
+Date:   Tue Nov 16 12:28:51 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)

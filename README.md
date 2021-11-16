@@ -6,3 +6,5 @@ There is also some text with ***both***
 
 [Gitlog](https://github.com/hamaro777/ot-harjoitusty-/blob/master/laskarit/viikko1/gitlog.txt)
 [komentorivi.txt](https://github.com/hamaro777/ot-harjoitusty-/blob/master/laskarit/viikko1/komentorivi.txt)
+
+Trad dad

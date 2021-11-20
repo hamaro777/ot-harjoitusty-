@@ -10,9 +10,11 @@ Aluksi sovelluksella on käyttäjärooleina normaali käyttäjä ja suurempien o
 
 ### Käyttöliittymäluonnos
 
+![luonnos](kayttoliittymaluonnos.jpg)
+
 ### Perusversion tarjoama toiminnallisuus
 
-** Ennen kirjautumista **
+**Ennen kirjautumista**
 
 * Käyttäjä voi luoda uuden kirjautumistunnuksen
 	* Käyttäjätunnuksen tulee olla uniikki, vähintään kolme kirjainta
@@ -22,7 +24,7 @@ Aluksi sovelluksella on käyttäjärooleina normaali käyttäjä ja suurempien o
 	* Kirjautuminen onnistuu antamalla olemassa oleva käyttäjätunnus ja sen salasana
 	* Jos käyttäjätunnusta ei ole olemassa tai salasana on väärä, järjestelmä ilmoittaa tästä
 
-** Kirjautumisen jälkeen **
+**Kirjautumisen jälkeen**
 
 * Käyttäjä voi lisätä uuden kiivetyn reitin
 	* Reitin tietoihin annetaan greidi, päivämäärä ja halutessa paikka ja lisäkommentti
